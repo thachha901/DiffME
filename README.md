@@ -1,6 +1,6 @@
 # DiffME
 
-<img src="./figures/framework.jpg" alt="framework" style="zoom: 25%;" />
+<img src="./DiffME.jpg" alt="framework" style="zoom: 25%;" />
 
 
 
