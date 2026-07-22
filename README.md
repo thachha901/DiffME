@@ -1,8 +1,21 @@
-# DiffME
+# DiffME: A Diffusion-based Unified Framework with Soft Pseudo-Labeling for Micro-Expression Spotting and Recognition
 
-<img src="./DiffME.jpg" alt="framework" style="zoom: 25%;" />
+[![CVPR 2026 Workshop](https://img.shields.io/badge/CVPRW-2026-blue.svg)](https://cvpr.thecvf.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
+Official PyTorch implementation of **"DiffME: A Diffusion-based Unified Framework with Soft Pseudo-Labeling for Micro-Expression Spotting and Recognition"** (CVPR 2026 Workshop).
 
+---
+
+## 📌 Overview
+
+**DiffME** is a novel diffusion-based unified framework designed for joint Micro-Expression (ME) spotting and recognition. By incorporating soft pseudo-labeling, DiffME effectively addresses the challenge of subtle facial movements and imbalanced, noisy annotations in micro-expression datasets such as SAMM Long Videos and CAS(ME)³.
+
+<p align="center">
+  <img src="./DiffME.jpg" alt="DiffME Architecture Overview" width="80%" />
+</p>
+
+---
 
 ## 🔧 Setup
 
