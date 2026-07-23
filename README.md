@@ -12,7 +12,7 @@ Official PyTorch implementation of **"DiffME: A Diffusion-based Unified Framewor
 **DiffME** is a novel diffusion-based unified framework designed for joint Micro-Expression (ME) spotting and recognition. By incorporating soft pseudo-labeling, DiffME effectively addresses the challenge of subtle facial movements and imbalanced, noisy annotations in micro-expression datasets such as SAMM Long Videos and CAS(ME)³.
 
 <p align="center">
-  <img src="./DiffME.jpg" alt="DiffME Architecture Overview" width="80%" />
+  <img src="./figures/DiffME.jpg" alt="DiffME Architecture Overview" width="80%" />
 </p>
 
 ---
